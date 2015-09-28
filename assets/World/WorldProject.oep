@@ -1,0 +1,141 @@
+<project>
+	<name>VartaghCollabProject</name>
+	<settings>
+		<defaultWidth>320</defaultWidth>
+		<defaultHeight>240</defaultHeight>
+		<workingDirectory>../Graphics</workingDirectory>
+	</settings>
+	<tilesets>
+		<tileset name="backgroundTiles" image="tileSet.png" tileWidth="16" tileHeight="16"/>
+	</tilesets>
+	<objects>
+		<object name="player" width="16" height="16" image="player.png" limit="1" imageWidth="16" imageHeight="16" />
+		<folder name="Generators">
+			<object name="normalMushroomGenerator" width="9" height="12" image="normalMushroom.png" imageWidth="9" imageHeight="12" imageOffsetY="12">
+				<values>
+					<integer name="startingTime" default="60"/>
+					<integer name="interGenerationTime" default="60"/>
+					<integer name="randomPeriod" default="20"/>
+					<integer name="numberOfGeneratedObjects" default="10"/>
+				</values>
+			</object>
+			<object name="bigMushroomGenerator" width="16" height="16" image="bigMushroom.png" imageWidth="16" imageHeight="22">
+				<values>
+					<integer name="startingTime" default="60"/>
+					<integer name="interGenerationTime" default="60"/>
+					<integer name="randomPeriod" default="20"/>
+					<integer name="numberOfGeneratedObjects" default="10"/>
+				</values>
+			</object>
+			<object name="flyingMushroomGenerator" width="16" height="16" image="flyingMushroom.png" imageWidth="16" imageHeight="16">
+				<values>
+					<integer name="startingTime" default="60"/>
+					<integer name="interGenerationTime" default="60"/>
+					<integer name="randomPeriod" default="20"/>
+					<integer name="numberOfGeneratedObjects" default="10"/>
+				</values>
+			</object>
+			<object name="spitMushroomGenerator" width="16" height="16" image="spitMushroom.png" imageWidth="9" imageHeight="14" imageOffsetY="14">
+				<values>
+					<integer name="startingTime" default="60"/>
+					<integer name="interGenerationTime" default="60"/>
+					<integer name="randomPeriod" default="20"/>
+					<integer name="numberOfGeneratedObjects" default="10"/>
+				</values>
+			</object>
+			<object name="littleIronMushroomGenerator" width="9" height="12" image="littleIronMushroom.png" imageWidth="9" imageHeight="12" imageOffsetY="12">
+				<values>
+					<integer name="startingTime" default="60"/>
+					<integer name="interGenerationTime" default="60"/>
+					<integer name="randomPeriod" default="20"/>
+					<integer name="numberOfGeneratedObjects" default="10"/>
+				</values>
+			</object>
+			<object name="ironMushroomGenerator" width="16" height="16" image="ironMushroom.png" imageWidth="16" imageHeight="22">
+				<values>
+					<integer name="startingTime" default="60"/>
+					<integer name="interGenerationTime" default="60"/>
+					<integer name="randomPeriod" default="20"/>
+					<integer name="numberOfGeneratedObjects" default="10"/>
+				</values>
+			</object>
+			<object name="runningMushroomGenerator" width="9" height="12" image="runningMushroom.png" imageWidth="9" imageHeight="12" imageOffsetY="12">
+				<values>
+					<integer name="startingTime" default="60"/>
+					<integer name="interGenerationTime" default="60"/>
+					<integer name="randomPeriod" default="20"/>
+					<integer name="numberOfGeneratedObjects" default="10"/>
+				</values>
+			</object>
+			<object name="tallRunningMushroomGenerator" width="9" height="14" image="tallRunningMushroom.png" imageWidth="9" imageHeight="14" imageOffsetY="14">
+				<values>
+					<integer name="startingTime" default="60"/>
+					<integer name="interGenerationTime" default="60"/>
+					<integer name="randomPeriod" default="20"/>
+					<integer name="numberOfGeneratedObjects" default="10"/>
+				</values>
+			</object>
+			<object name="bigSpitMushroomGenerator" width="16" height="16" image="bigSpitMushroom.png" imageWidth="16" imageHeight="22">
+				<values>
+					<integer name="startingTime" default="60"/>
+					<integer name="interGenerationTime" default="60"/>
+					<integer name="randomPeriod" default="20"/>
+					<integer name="numberOfGeneratedObjects" default="10"/>
+				</values>
+			</object>
+			<object name="shyMushroomGenerator" width="9" height="12" image="shyMushroom.png" imageWidth="9" imageHeight="12" imageOffsetY="12">
+				<values>
+					<integer name="startingTime" default="60"/>
+					<integer name="interGenerationTime" default="60"/>
+					<integer name="randomPeriod" default="20"/>
+					<integer name="numberOfGeneratedObjects" default="10"/>
+				</values>
+			</object>
+			<object name="boss1MushroomGenerator" width="24" height="24" image="boss1.png" imageWidth="24" imageHeight="24" imageOffsetY="24">
+				<values>
+					<integer name="startingTime" default="1"/>
+					<integer name="interGenerationTime" default="1"/>
+					<integer name="randomPeriod" default="0"/>
+					<integer name="numberOfGeneratedObjects" default="1"/>
+				</values>
+			</object>
+			<object name="boss2MushroomGenerator" width="24" height="24" image="boss2.png" imageWidth="24" imageHeight="24" imageOffsetY="24">
+				<values>
+					<integer name="startingTime" default="1"/>
+					<integer name="interGenerationTime" default="1"/>
+					<integer name="randomPeriod" default="0"/>
+					<integer name="numberOfGeneratedObjects" default="1"/>
+				</values>
+			</object>
+			<object name="boss3MushroomGenerator" width="24" height="24" image="boss3.png" imageWidth="24" imageHeight="24" imageOffsetY="24">
+				<values>
+					<integer name="startingTime" default="1"/>
+					<integer name="interGenerationTime" default="1"/>
+					<integer name="randomPeriod" default="0"/>
+					<integer name="numberOfGeneratedObjects" default="1"/>
+				</values>
+			</object>
+			<object name="boss4MushroomGenerator" width="24" height="24" image="boss4.png" imageWidth="24" imageHeight="24" imageOffsetY="24">
+				<values>
+					<integer name="startingTime" default="1"/>
+					<integer name="interGenerationTime" default="1"/>
+					<integer name="randomPeriod" default="0"/>
+					<integer name="numberOfGeneratedObjects" default="1"/>
+				</values>
+			</object>
+			<object name="boss5MushroomGenerator" width="24" height="24" image="boss5.png" imageWidth="24" imageHeight="24" imageOffsetY="24">
+				<values>
+					<integer name="startingTime" default="1"/>
+					<integer name="interGenerationTime" default="1"/>
+					<integer name="randomPeriod" default="0"/>
+					<integer name="numberOfGeneratedObjects" default="1"/>
+				</values>
+			</object>
+		</folder>
+	</objects>
+	<layers>
+		<tiles name="tileLayer" gridSize="16" exportTileIDs="true"/>
+		<grid name="solid" gridSize="16" newLine="-"/>
+		<objects name="objectLayer" gridSize="16"/>
+	</layers>
+</project>

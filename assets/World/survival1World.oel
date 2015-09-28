@@ -1,0 +1,452 @@
+<level>
+  <width>320</width>
+  <height>240</height>
+  <tileLayer set="backgroundTiles">
+    <tile id="0" x="320" y="208"/>
+    <tile id="0" x="320" y="112"/>
+    <tile id="0" x="320" y="192"/>
+    <tile id="1" x="240" y="0"/>
+    <tile id="1" x="80" y="0"/>
+    <tile id="1" x="320" y="224"/>
+    <tile id="1" x="320" y="160"/>
+    <tile id="1" x="288" y="80"/>
+    <tile id="1" x="320" y="0"/>
+    <tile id="1" x="320" y="80"/>
+    <tile id="1" x="256" y="48"/>
+    <tile id="1" x="288" y="16"/>
+    <tile id="1" x="272" y="48"/>
+    <tile id="1" x="144" y="64"/>
+    <tile id="1" x="288" y="176"/>
+    <tile id="1" x="288" y="192"/>
+    <tile id="1" x="256" y="128"/>
+    <tile id="1" x="256" y="144"/>
+    <tile id="6" x="288" y="160"/>
+    <tile id="6" x="0" y="48"/>
+    <tile id="6" x="16" y="96"/>
+    <tile id="6" x="16" y="112"/>
+    <tile id="6" x="32" y="112"/>
+    <tile id="6" x="16" y="160"/>
+    <tile id="6" x="16" y="144"/>
+    <tile id="6" x="16" y="128"/>
+    <tile id="6" x="64" y="192"/>
+    <tile id="6" x="32" y="160"/>
+    <tile id="6" x="64" y="128"/>
+    <tile id="6" x="48" y="144"/>
+    <tile id="6" x="48" y="160"/>
+    <tile id="6" x="32" y="192"/>
+    <tile id="6" x="48" y="192"/>
+    <tile id="6" x="64" y="160"/>
+    <tile id="6" x="64" y="144"/>
+    <tile id="6" x="32" y="144"/>
+    <tile id="6" x="32" y="128"/>
+    <tile id="6" x="64" y="64"/>
+    <tile id="6" x="80" y="96"/>
+    <tile id="6" x="96" y="80"/>
+    <tile id="6" x="96" y="128"/>
+    <tile id="6" x="64" y="176"/>
+    <tile id="6" x="48" y="176"/>
+    <tile id="6" x="32" y="176"/>
+    <tile id="6" x="0" y="192"/>
+    <tile id="6" x="0" y="64"/>
+    <tile id="6" x="0" y="80"/>
+    <tile id="6" x="0" y="96"/>
+    <tile id="6" x="0" y="112"/>
+    <tile id="6" x="0" y="128"/>
+    <tile id="6" x="0" y="144"/>
+    <tile id="6" x="0" y="160"/>
+    <tile id="6" x="0" y="176"/>
+    <tile id="6" x="16" y="176"/>
+    <tile id="6" x="16" y="192"/>
+    <tile id="6" x="80" y="224"/>
+    <tile id="6" x="0" y="224"/>
+    <tile id="6" x="0" y="208"/>
+    <tile id="6" x="32" y="208"/>
+    <tile id="6" x="48" y="208"/>
+    <tile id="6" x="16" y="208"/>
+    <tile id="6" x="16" y="224"/>
+    <tile id="6" x="32" y="224"/>
+    <tile id="6" x="48" y="224"/>
+    <tile id="6" x="96" y="176"/>
+    <tile id="6" x="64" y="224"/>
+    <tile id="6" x="64" y="208"/>
+    <tile id="6" x="96" y="160"/>
+    <tile id="6" x="80" y="208"/>
+    <tile id="6" x="80" y="192"/>
+    <tile id="6" x="80" y="176"/>
+    <tile id="6" x="80" y="160"/>
+    <tile id="6" x="80" y="144"/>
+    <tile id="6" x="80" y="128"/>
+    <tile id="6" x="80" y="112"/>
+    <tile id="6" x="80" y="80"/>
+    <tile id="6" x="80" y="64"/>
+    <tile id="6" x="80" y="48"/>
+    <tile id="6" x="64" y="48"/>
+    <tile id="6" x="32" y="64"/>
+    <tile id="6" x="32" y="32"/>
+    <tile id="6" x="32" y="48"/>
+    <tile id="6" x="48" y="32"/>
+    <tile id="6" x="48" y="48"/>
+    <tile id="6" x="48" y="64"/>
+    <tile id="6" x="16" y="80"/>
+    <tile id="6" x="32" y="16"/>
+    <tile id="6" x="16" y="64"/>
+    <tile id="6" x="16" y="48"/>
+    <tile id="6" x="16" y="32"/>
+    <tile id="6" x="0" y="0"/>
+    <tile id="6" x="0" y="16"/>
+    <tile id="6" x="0" y="32"/>
+    <tile id="6" x="16" y="16"/>
+    <tile id="6" x="16" y="0"/>
+    <tile id="6" x="64" y="0"/>
+    <tile id="6" x="32" y="0"/>
+    <tile id="6" x="48" y="0"/>
+    <tile id="6" x="224" y="32"/>
+    <tile id="6" x="48" y="16"/>
+    <tile id="6" x="144" y="48"/>
+    <tile id="6" x="64" y="32"/>
+    <tile id="6" x="64" y="16"/>
+    <tile id="6" x="80" y="16"/>
+    <tile id="6" x="96" y="16"/>
+    <tile id="6" x="80" y="32"/>
+    <tile id="6" x="112" y="64"/>
+    <tile id="6" x="144" y="0"/>
+    <tile id="6" x="112" y="176"/>
+    <tile id="6" x="96" y="192"/>
+    <tile id="6" x="96" y="224"/>
+    <tile id="6" x="112" y="224"/>
+    <tile id="6" x="144" y="224"/>
+    <tile id="6" x="128" y="224"/>
+    <tile id="6" x="96" y="208"/>
+    <tile id="6" x="112" y="208"/>
+    <tile id="6" x="144" y="208"/>
+    <tile id="6" x="144" y="192"/>
+    <tile id="6" x="128" y="208"/>
+    <tile id="6" x="144" y="160"/>
+    <tile id="6" x="128" y="128"/>
+    <tile id="6" x="128" y="192"/>
+    <tile id="6" x="128" y="176"/>
+    <tile id="6" x="112" y="160"/>
+    <tile id="6" x="112" y="112"/>
+    <tile id="6" x="112" y="96"/>
+    <tile id="6" x="112" y="80"/>
+    <tile id="6" x="112" y="48"/>
+    <tile id="6" x="128" y="96"/>
+    <tile id="6" x="128" y="112"/>
+    <tile id="6" x="112" y="128"/>
+    <tile id="6" x="112" y="144"/>
+    <tile id="6" x="96" y="112"/>
+    <tile id="6" x="96" y="96"/>
+    <tile id="6" x="96" y="64"/>
+    <tile id="6" x="96" y="48"/>
+    <tile id="6" x="96" y="0"/>
+    <tile id="6" x="128" y="64"/>
+    <tile id="6" x="128" y="48"/>
+    <tile id="6" x="112" y="16"/>
+    <tile id="6" x="112" y="0"/>
+    <tile id="6" x="160" y="176"/>
+    <tile id="6" x="128" y="80"/>
+    <tile id="6" x="128" y="0"/>
+    <tile id="6" x="144" y="80"/>
+    <tile id="6" x="144" y="96"/>
+    <tile id="6" x="144" y="128"/>
+    <tile id="6" x="144" y="144"/>
+    <tile id="6" x="208" y="224"/>
+    <tile id="6" x="208" y="208"/>
+    <tile id="6" x="192" y="192"/>
+    <tile id="6" x="160" y="208"/>
+    <tile id="6" x="176" y="144"/>
+    <tile id="6" x="160" y="160"/>
+    <tile id="6" x="160" y="144"/>
+    <tile id="6" x="160" y="128"/>
+    <tile id="6" x="160" y="112"/>
+    <tile id="6" x="160" y="32"/>
+    <tile id="6" x="160" y="48"/>
+    <tile id="6" x="144" y="32"/>
+    <tile id="6" x="144" y="16"/>
+    <tile id="6" x="224" y="0"/>
+    <tile id="6" x="224" y="16"/>
+    <tile id="6" x="176" y="64"/>
+    <tile id="6" x="208" y="112"/>
+    <tile id="6" x="192" y="32"/>
+    <tile id="6" x="208" y="96"/>
+    <tile id="6" x="272" y="0"/>
+    <tile id="6" x="304" y="64"/>
+    <tile id="6" x="288" y="64"/>
+    <tile id="6" x="288" y="48"/>
+    <tile id="6" x="272" y="32"/>
+    <tile id="6" x="272" y="16"/>
+    <tile id="6" x="256" y="32"/>
+    <tile id="6" x="256" y="0"/>
+    <tile id="6" x="240" y="16"/>
+    <tile id="6" x="240" y="32"/>
+    <tile id="6" x="224" y="80"/>
+    <tile id="6" x="256" y="112"/>
+    <tile id="6" x="272" y="64"/>
+    <tile id="6" x="272" y="80"/>
+    <tile id="6" x="272" y="144"/>
+    <tile id="6" x="272" y="224"/>
+    <tile id="6" x="256" y="192"/>
+    <tile id="6" x="240" y="128"/>
+    <tile id="6" x="240" y="112"/>
+    <tile id="6" x="224" y="112"/>
+    <tile id="6" x="272" y="208"/>
+    <tile id="6" x="288" y="224"/>
+    <tile id="6" x="288" y="208"/>
+    <tile id="6" x="272" y="160"/>
+    <tile id="6" x="288" y="112"/>
+    <tile id="6" x="288" y="128"/>
+    <tile id="6" x="272" y="176"/>
+    <tile id="6" x="272" y="192"/>
+    <tile id="6" x="256" y="208"/>
+    <tile id="6" x="256" y="224"/>
+    <tile id="6" x="208" y="192"/>
+    <tile id="6" x="208" y="176"/>
+    <tile id="6" x="208" y="160"/>
+    <tile id="6" x="208" y="144"/>
+    <tile id="6" x="208" y="128"/>
+    <tile id="6" x="224" y="224"/>
+    <tile id="6" x="224" y="208"/>
+    <tile id="6" x="224" y="192"/>
+    <tile id="6" x="224" y="96"/>
+    <tile id="6" x="240" y="48"/>
+    <tile id="6" x="192" y="80"/>
+    <tile id="6" x="208" y="0"/>
+    <tile id="6" x="208" y="16"/>
+    <tile id="6" x="192" y="96"/>
+    <tile id="6" x="192" y="144"/>
+    <tile id="6" x="192" y="112"/>
+    <tile id="6" x="192" y="128"/>
+    <tile id="6" x="192" y="160"/>
+    <tile id="6" x="192" y="176"/>
+    <tile id="6" x="192" y="208"/>
+    <tile id="6" x="192" y="224"/>
+    <tile id="6" x="176" y="224"/>
+    <tile id="6" x="176" y="208"/>
+    <tile id="6" x="160" y="80"/>
+    <tile id="6" x="160" y="64"/>
+    <tile id="6" x="160" y="16"/>
+    <tile id="6" x="176" y="0"/>
+    <tile id="6" x="192" y="0"/>
+    <tile id="6" x="208" y="80"/>
+    <tile id="6" x="224" y="128"/>
+    <tile id="6" x="224" y="176"/>
+    <tile id="6" x="240" y="208"/>
+    <tile id="6" x="240" y="224"/>
+    <tile id="6" x="288" y="96"/>
+    <tile id="6" x="304" y="208"/>
+    <tile id="6" x="304" y="224"/>
+    <tile id="6" x="304" y="192"/>
+    <tile id="6" x="304" y="176"/>
+    <tile id="6" x="304" y="160"/>
+    <tile id="6" x="288" y="32"/>
+    <tile id="6" x="288" y="0"/>
+    <tile id="6" x="304" y="0"/>
+    <tile id="6" x="304" y="16"/>
+    <tile id="6" x="304" y="32"/>
+    <tile id="6" x="304" y="48"/>
+    <tile id="6" x="304" y="80"/>
+    <tile id="6" x="304" y="96"/>
+    <tile id="6" x="304" y="112"/>
+    <tile id="6" x="304" y="128"/>
+    <tile id="6" x="304" y="144"/>
+    <tile id="6" x="288" y="144"/>
+    <tile id="6" x="272" y="128"/>
+    <tile id="6" x="272" y="112"/>
+    <tile id="6" x="240" y="80"/>
+    <tile id="6" x="208" y="64"/>
+    <tile id="6" x="192" y="48"/>
+    <tile id="6" x="192" y="64"/>
+    <tile id="6" x="176" y="96"/>
+    <tile id="6" x="176" y="112"/>
+    <tile id="6" x="176" y="128"/>
+    <tile id="6" x="176" y="160"/>
+    <tile id="6" x="176" y="176"/>
+    <tile id="6" x="176" y="192"/>
+    <tile id="6" x="160" y="192"/>
+    <tile id="6" x="144" y="176"/>
+    <tile id="6" x="128" y="160"/>
+    <tile id="6" x="128" y="144"/>
+    <tile id="6" x="144" y="112"/>
+    <tile id="6" x="160" y="96"/>
+    <tile id="6" x="176" y="80"/>
+    <tile id="6" x="224" y="48"/>
+    <tile id="6" x="240" y="64"/>
+    <tile id="6" x="256" y="64"/>
+    <tile id="6" x="256" y="80"/>
+    <tile id="6" x="256" y="96"/>
+    <tile id="6" x="240" y="96"/>
+    <tile id="6" x="224" y="64"/>
+    <tile id="6" x="208" y="48"/>
+    <tile id="6" x="208" y="32"/>
+    <tile id="6" x="160" y="0"/>
+    <tile id="6" x="128" y="16"/>
+    <tile id="6" x="96" y="32"/>
+    <tile id="6" x="112" y="32"/>
+    <tile id="11" x="128" y="32"/>
+    <tile id="11" x="256" y="16"/>
+    <tile id="11" x="272" y="96"/>
+    <tile id="11" x="112" y="192"/>
+    <tile id="1" x="32" y="80"/>
+    <tile id="1" x="32" y="96"/>
+    <tile id="1" x="48" y="96"/>
+    <tile id="1" x="48" y="80"/>
+    <tile id="1" x="64" y="80"/>
+    <tile id="1" x="64" y="96"/>
+    <tile id="1" x="64" y="112"/>
+    <tile id="1" x="48" y="112"/>
+    <tile id="1" x="48" y="128"/>
+    <tile id="1" x="224" y="160"/>
+    <tile id="1" x="224" y="144"/>
+    <tile id="1" x="240" y="144"/>
+    <tile id="1" x="240" y="160"/>
+    <tile id="1" x="256" y="160"/>
+    <tile id="1" x="256" y="176"/>
+    <tile id="1" x="240" y="176"/>
+    <tile id="1" x="240" y="192"/>
+    <tile id="1" x="192" y="16"/>
+    <tile id="1" x="176" y="16"/>
+    <tile id="1" x="176" y="32"/>
+    <tile id="1" x="176" y="48"/>
+    <tile id="1" x="160" y="224"/>
+    <tile id="6" x="96" y="144"/>
+  </tileLayer>
+  <solid>00000000000000000000-00000000000000001000-00000000100000000000-00000000000000000000-00000000000000000000-00000000000000000000-00000000000000000100-00000000000000000000-00000000000000000000-00000000000000000000-00000000000000000000-00000000000000000000-00000001000000000000-00000000000000000000-00000000000000000000</solid>
+  <objectLayer>
+    <player x="160" y="112"/>
+    <normalMushroomGenerator x="16" y="0" startingTime="100" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="5"/>
+    <normalMushroomGenerator x="32" y="0" startingTime="100" interGenerationTime="200" randomPeriod="100" numberOfGeneratedObjects="5"/>
+    <normalMushroomGenerator x="48" y="0" startingTime="500" interGenerationTime="100" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <bigMushroomGenerator x="16" y="16" startingTime="1100" interGenerationTime="200" randomPeriod="300" numberOfGeneratedObjects="3"/>
+    <bigMushroomGenerator x="80" y="16" startingTime="1200" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="3"/>
+    <normalMushroomGenerator x="32" y="16" startingTime="1200" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="5"/>
+    <normalMushroomGenerator x="48" y="16" startingTime="1300" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <normalMushroomGenerator x="64" y="16" startingTime="1800" interGenerationTime="100" randomPeriod="200" numberOfGeneratedObjects="3"/>
+    <normalMushroomGenerator x="16" y="32" startingTime="2700" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="5"/>
+    <normalMushroomGenerator x="32" y="32" startingTime="3800" interGenerationTime="100" randomPeriod="200" numberOfGeneratedObjects="3"/>
+    <normalMushroomGenerator x="48" y="32" startingTime="3400" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="3"/>
+    <bigMushroomGenerator x="64" y="32" startingTime="3000" interGenerationTime="200" randomPeriod="400" numberOfGeneratedObjects="3"/>
+    <spitMushroomGenerator x="80" y="32" startingTime="4000" interGenerationTime="400" randomPeriod="400" numberOfGeneratedObjects="3"/>
+    <normalMushroomGenerator x="304" y="0" startingTime="200" interGenerationTime="600" randomPeriod="600" numberOfGeneratedObjects="-1"/>
+    <bigMushroomGenerator x="304" y="16" startingTime="1700" interGenerationTime="800" randomPeriod="800" numberOfGeneratedObjects="-1"/>
+    <spitMushroomGenerator x="304" y="32" startingTime="3500" interGenerationTime="1300" randomPeriod="1300" numberOfGeneratedObjects="-1"/>
+    <normalMushroomGenerator x="16" y="48" startingTime="4400" interGenerationTime="100" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <normalMushroomGenerator x="48" y="48" startingTime="5000" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="5"/>
+    <spitMushroomGenerator x="32" y="48" startingTime="4800" interGenerationTime="500" randomPeriod="300" numberOfGeneratedObjects="5"/>
+    <bigMushroomGenerator x="64" y="48" startingTime="4800" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="5"/>
+    <bigMushroomGenerator x="96" y="48" startingTime="6000" interGenerationTime="400" randomPeriod="400" numberOfGeneratedObjects="5"/>
+    <bigSpitMushroomGenerator x="112" y="48" startingTime="6500" interGenerationTime="500" randomPeriod="500" numberOfGeneratedObjects="3"/>
+    <bigSpitMushroomGenerator x="304" y="48" startingTime="6000" interGenerationTime="1500" randomPeriod="1500" numberOfGeneratedObjects="-1"/>
+    <normalMushroomGenerator x="80" y="48" startingTime="5000" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="10"/>
+    <runningMushroomGenerator x="16" y="64" startingTime="10000" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="304" y="64" startingTime="10000" interGenerationTime="1000" randomPeriod="1000" numberOfGeneratedObjects="-1"/>
+    <normalMushroomGenerator x="32" y="64" startingTime="9500" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="5"/>
+    <normalMushroomGenerator x="48" y="64" startingTime="10800" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <bigMushroomGenerator x="64" y="64" startingTime="11000" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="3"/>
+    <runningMushroomGenerator x="80" y="64" startingTime="11100" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="3"/>
+    <runningMushroomGenerator x="96" y="64" startingTime="11800" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="3"/>
+    <runningMushroomGenerator x="112" y="64" startingTime="12000" interGenerationTime="400" randomPeriod="400" numberOfGeneratedObjects="5"/>
+    <normalMushroomGenerator x="128" y="64" startingTime="12000" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="5"/>
+    <bigMushroomGenerator x="144" y="64" startingTime="12100" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="3"/>
+    <runningMushroomGenerator x="16" y="80" startingTime="12100" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="32" y="80" startingTime="13000" interGenerationTime="100" randomPeriod="200" numberOfGeneratedObjects="3"/>
+    <runningMushroomGenerator x="48" y="80" startingTime="13500" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="3"/>
+    <normalMushroomGenerator x="64" y="80" startingTime="13000" interGenerationTime="100" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <normalMushroomGenerator x="80" y="80" startingTime="14000" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="3"/>
+    <normalMushroomGenerator x="96" y="80" startingTime="14200" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="4"/>
+    <spitMushroomGenerator x="112" y="80" startingTime="13600" interGenerationTime="400" randomPeriod="400" numberOfGeneratedObjects="3"/>
+    <tallRunningMushroomGenerator x="128" y="80" startingTime="14000" interGenerationTime="400" randomPeriod="400" numberOfGeneratedObjects="4"/>
+    <tallRunningMushroomGenerator x="16" y="96" startingTime="15500" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="3"/>
+    <tallRunningMushroomGenerator x="32" y="96" startingTime="15500" interGenerationTime="500" randomPeriod="500" numberOfGeneratedObjects="3"/>
+    <runningMushroomGenerator x="48" y="96" startingTime="15000" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="4"/>
+    <runningMushroomGenerator x="64" y="96" startingTime="15000" interGenerationTime="400" randomPeriod="400" numberOfGeneratedObjects="4"/>
+    <runningMushroomGenerator x="80" y="96" startingTime="16500" interGenerationTime="100" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <bigMushroomGenerator x="96" y="96" startingTime="17000" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="4"/>
+    <bigSpitMushroomGenerator x="112" y="96" startingTime="17300" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="3"/>
+    <runningMushroomGenerator x="16" y="112" startingTime="18600" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="3"/>
+    <runningMushroomGenerator x="32" y="112" startingTime="19000" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="4"/>
+    <runningMushroomGenerator x="48" y="112" startingTime="19500" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="10"/>
+    <tallRunningMushroomGenerator x="64" y="112" startingTime="20000" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="6"/>
+    <tallRunningMushroomGenerator x="80" y="112" startingTime="20000" interGenerationTime="400" randomPeriod="400" numberOfGeneratedObjects="3"/>
+    <tallRunningMushroomGenerator x="96" y="112" startingTime="21000" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <bigMushroomGenerator x="112" y="112" startingTime="19500" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="5"/>
+    <normalMushroomGenerator x="128" y="112" startingTime="19000" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="6"/>
+    <normalMushroomGenerator x="144" y="112" startingTime="21500" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="8"/>
+    <spitMushroomGenerator x="0" y="112" startingTime="19000" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="3"/>
+    <spitMushroomGenerator x="16" y="128" startingTime="22000" interGenerationTime="400" randomPeriod="400" numberOfGeneratedObjects="7"/>
+    <bigSpitMushroomGenerator x="32" y="128" startingTime="28000" interGenerationTime="500" randomPeriod="500" numberOfGeneratedObjects="5"/>
+    <littleIronMushroomGenerator x="48" y="128" startingTime="22400" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <littleIronMushroomGenerator x="64" y="128" startingTime="23000" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="4"/>
+    <runningMushroomGenerator x="80" y="128" startingTime="22500" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="96" y="128" startingTime="23000" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="5"/>
+    <tallRunningMushroomGenerator x="112" y="128" startingTime="23500" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="5"/>
+    <tallRunningMushroomGenerator x="128" y="128" startingTime="24000" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <bigMushroomGenerator x="144" y="128" startingTime="23500" interGenerationTime="400" randomPeriod="400" numberOfGeneratedObjects="5"/>
+    <normalMushroomGenerator x="160" y="128" startingTime="25000" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="5"/>
+    <normalMushroomGenerator x="16" y="144" startingTime="26000" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="4"/>
+    <normalMushroomGenerator x="32" y="144" startingTime="27000" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="7"/>
+    <runningMushroomGenerator x="64" y="144" startingTime="27000" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="48" y="144" startingTime="26500" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="4"/>
+    <tallRunningMushroomGenerator x="80" y="144" startingTime="27500" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <tallRunningMushroomGenerator x="96" y="144" startingTime="27800" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="5"/>
+    <littleIronMushroomGenerator x="128" y="144" startingTime="26500" interGenerationTime="400" randomPeriod="400" numberOfGeneratedObjects="7"/>
+    <littleIronMushroomGenerator x="112" y="144" startingTime="28200" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="6"/>
+    <spitMushroomGenerator x="144" y="144" startingTime="28000" interGenerationTime="500" randomPeriod="500" numberOfGeneratedObjects="5"/>
+    <ironMushroomGenerator x="160" y="144" startingTime="28500" interGenerationTime="400" randomPeriod="400" numberOfGeneratedObjects="5"/>
+    <ironMushroomGenerator x="16" y="160" startingTime="30000" interGenerationTime="500" randomPeriod="500" numberOfGeneratedObjects="6"/>
+    <ironMushroomGenerator x="160" y="160" startingTime="33000" interGenerationTime="500" randomPeriod="500" numberOfGeneratedObjects="5"/>
+    <flyingMushroomGenerator x="16" y="176" startingTime="35000" interGenerationTime="400" randomPeriod="400" numberOfGeneratedObjects="3"/>
+    <flyingMushroomGenerator x="160" y="176" startingTime="37000" interGenerationTime="800" randomPeriod="800" numberOfGeneratedObjects="5"/>
+    <flyingMushroomGenerator x="16" y="192" startingTime="40000" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="-1"/>
+    <normalMushroomGenerator x="32" y="192" startingTime="40000" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="-1"/>
+    <bigMushroomGenerator x="48" y="192" startingTime="45000" interGenerationTime="800" randomPeriod="800" numberOfGeneratedObjects="-1"/>
+    <littleIronMushroomGenerator x="64" y="192" startingTime="40500" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="-1"/>
+    <spitMushroomGenerator x="80" y="192" startingTime="42500" interGenerationTime="600" randomPeriod="600" numberOfGeneratedObjects="-1"/>
+    <bigSpitMushroomGenerator x="96" y="192" startingTime="43000" interGenerationTime="1000" randomPeriod="500" numberOfGeneratedObjects="-1"/>
+    <ironMushroomGenerator x="112" y="192" startingTime="42000" interGenerationTime="900" randomPeriod="900" numberOfGeneratedObjects="-1"/>
+    <runningMushroomGenerator x="128" y="192" startingTime="40000" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="-1"/>
+    <runningMushroomGenerator x="144" y="192" startingTime="41500" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="-1"/>
+    <tallRunningMushroomGenerator x="160" y="192" startingTime="42000" interGenerationTime="400" randomPeriod="400" numberOfGeneratedObjects="-1"/>
+    <flyingMushroomGenerator x="176" y="192" startingTime="41000" interGenerationTime="700" randomPeriod="700" numberOfGeneratedObjects="-1"/>
+    <normalMushroomGenerator x="32" y="160" startingTime="31000" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <littleIronMushroomGenerator x="64" y="160" startingTime="31500" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <littleIronMushroomGenerator x="48" y="160" startingTime="31000" interGenerationTime="100" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="80" y="160" startingTime="31000" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="96" y="160" startingTime="32000" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <tallRunningMushroomGenerator x="112" y="160" startingTime="32500" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="5"/>
+    <bigSpitMushroomGenerator x="144" y="160" startingTime="32000" interGenerationTime="500" randomPeriod="500" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="128" y="160" startingTime="33000" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <normalMushroomGenerator x="32" y="176" startingTime="36000" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="5"/>
+    <bigMushroomGenerator x="48" y="176" startingTime="36500" interGenerationTime="500" randomPeriod="500" numberOfGeneratedObjects="5"/>
+    <littleIronMushroomGenerator x="64" y="176" startingTime="36200" interGenerationTime="300" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <littleIronMushroomGenerator x="80" y="176" startingTime="37500" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <ironMushroomGenerator x="96" y="176" startingTime="36000" interGenerationTime="500" randomPeriod="500" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="112" y="176" startingTime="35500" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="128" y="176" startingTime="36400" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="144" y="176" startingTime="37500" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <tallRunningMushroomGenerator x="304" y="80" startingTime="15000" interGenerationTime="1000" randomPeriod="1000" numberOfGeneratedObjects="-1"/>
+    <normalMushroomGenerator x="128" y="96" startingTime="16000" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="5"/>
+    <normalMushroomGenerator x="144" y="96" startingTime="17500" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="160" y="96" startingTime="17800" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="4"/>
+    <runningMushroomGenerator x="176" y="96" startingTime="18200" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="5"/>
+    <littleIronMushroomGenerator x="176" y="128" startingTime="25000" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="5"/>
+    <littleIronMushroomGenerator x="192" y="128" startingTime="25500" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="208" y="128" startingTime="24000" interGenerationTime="100" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="224" y="128" startingTime="25000" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="7"/>
+    <runningMushroomGenerator x="176" y="144" startingTime="28500" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="192" y="144" startingTime="29000" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <littleIronMushroomGenerator x="208" y="144" startingTime="29000" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <littleIronMushroomGenerator x="224" y="144" startingTime="27000" interGenerationTime="100" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <littleIronMushroomGenerator x="176" y="160" startingTime="33500" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="192" y="160" startingTime="33000" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="208" y="160" startingTime="34000" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <tallRunningMushroomGenerator x="224" y="160" startingTime="34000" interGenerationTime="200" randomPeriod="300" numberOfGeneratedObjects="5"/>
+    <spitMushroomGenerator x="240" y="160" startingTime="32000" interGenerationTime="400" randomPeriod="400" numberOfGeneratedObjects="5"/>
+    <tallRunningMushroomGenerator x="176" y="176" startingTime="36300" interGenerationTime="400" randomPeriod="400" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="192" y="176" startingTime="38200" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="208" y="176" startingTime="39000" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <littleIronMushroomGenerator x="224" y="176" startingTime="38500" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="5"/>
+    <littleIronMushroomGenerator x="304" y="128" startingTime="23000" interGenerationTime="1200" randomPeriod="1200" numberOfGeneratedObjects="-1"/>
+    <ironMushroomGenerator x="304" y="144" startingTime="30000" interGenerationTime="2000" randomPeriod="2000" numberOfGeneratedObjects="-1"/>
+    <flyingMushroomGenerator x="304" y="176" startingTime="38000" interGenerationTime="2000" randomPeriod="2000" numberOfGeneratedObjects="-1"/>
+  </objectLayer>
+</level>

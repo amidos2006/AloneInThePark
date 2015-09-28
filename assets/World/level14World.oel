@@ -1,0 +1,348 @@
+<level>
+  <width>320</width>
+  <height>240</height>
+  <tileLayer set="backgroundTiles">
+    <tile id="9" x="256" y="96"/>
+    <tile id="9" x="192" y="16"/>
+    <tile id="9" x="208" y="16"/>
+    <tile id="9" x="224" y="16"/>
+    <tile id="9" x="240" y="16"/>
+    <tile id="9" x="224" y="32"/>
+    <tile id="9" x="208" y="48"/>
+    <tile id="9" x="224" y="48"/>
+    <tile id="9" x="240" y="48"/>
+    <tile id="9" x="208" y="32"/>
+    <tile id="9" x="192" y="32"/>
+    <tile id="9" x="192" y="48"/>
+    <tile id="9" x="176" y="48"/>
+    <tile id="9" x="176" y="16"/>
+    <tile id="9" x="176" y="32"/>
+    <tile id="9" x="160" y="48"/>
+    <tile id="9" x="112" y="16"/>
+    <tile id="9" x="96" y="16"/>
+    <tile id="9" x="80" y="16"/>
+    <tile id="9" x="32" y="80"/>
+    <tile id="9" x="16" y="48"/>
+    <tile id="9" x="16" y="32"/>
+    <tile id="9" x="32" y="16"/>
+    <tile id="9" x="32" y="32"/>
+    <tile id="9" x="48" y="16"/>
+    <tile id="9" x="64" y="16"/>
+    <tile id="9" x="48" y="32"/>
+    <tile id="9" x="32" y="48"/>
+    <tile id="9" x="32" y="64"/>
+    <tile id="9" x="0" y="112"/>
+    <tile id="9" x="32" y="96"/>
+    <tile id="9" x="32" y="112"/>
+    <tile id="9" x="240" y="64"/>
+    <tile id="9" x="256" y="48"/>
+    <tile id="9" x="256" y="64"/>
+    <tile id="9" x="240" y="128"/>
+    <tile id="9" x="224" y="96"/>
+    <tile id="9" x="288" y="160"/>
+    <tile id="9" x="272" y="80"/>
+    <tile id="9" x="272" y="96"/>
+    <tile id="9" x="272" y="112"/>
+    <tile id="9" x="272" y="160"/>
+    <tile id="9" x="240" y="112"/>
+    <tile id="9" x="240" y="96"/>
+    <tile id="9" x="240" y="80"/>
+    <tile id="9" x="256" y="80"/>
+    <tile id="9" x="256" y="112"/>
+    <tile id="9" x="288" y="176"/>
+    <tile id="9" x="256" y="176"/>
+    <tile id="9" x="272" y="144"/>
+    <tile id="9" x="272" y="128"/>
+    <tile id="9" x="288" y="96"/>
+    <tile id="9" x="288" y="112"/>
+    <tile id="9" x="288" y="128"/>
+    <tile id="9" x="288" y="144"/>
+    <tile id="9" x="272" y="176"/>
+    <tile id="9" x="32" y="160"/>
+    <tile id="9" x="16" y="160"/>
+    <tile id="9" x="16" y="176"/>
+    <tile id="9" x="32" y="176"/>
+    <tile id="9" x="112" y="192"/>
+    <tile id="9" x="128" y="192"/>
+    <tile id="9" x="144" y="192"/>
+    <tile id="9" x="160" y="192"/>
+    <tile id="9" x="176" y="192"/>
+    <tile id="9" x="240" y="176"/>
+    <tile id="9" x="208" y="192"/>
+    <tile id="9" x="192" y="192"/>
+    <tile id="9" x="176" y="208"/>
+    <tile id="9" x="160" y="208"/>
+    <tile id="9" x="144" y="208"/>
+    <tile id="9" x="128" y="208"/>
+    <tile id="9" x="112" y="208"/>
+    <tile id="9" x="96" y="208"/>
+    <tile id="9" x="80" y="208"/>
+    <tile id="9" x="64" y="208"/>
+    <tile id="9" x="80" y="224"/>
+    <tile id="9" x="96" y="224"/>
+    <tile id="9" x="112" y="224"/>
+    <tile id="9" x="128" y="224"/>
+    <tile id="9" x="144" y="224"/>
+    <tile id="9" x="160" y="224"/>
+    <tile id="9" x="192" y="208"/>
+    <tile id="9" x="240" y="208"/>
+    <tile id="9" x="176" y="224"/>
+    <tile id="9" x="192" y="224"/>
+    <tile id="9" x="256" y="128"/>
+    <tile id="9" x="256" y="144"/>
+    <tile id="9" x="0" y="128"/>
+    <tile id="9" x="0" y="144"/>
+    <tile id="9" x="16" y="224"/>
+    <tile id="9" x="32" y="224"/>
+    <tile id="9" x="48" y="224"/>
+    <tile id="9" x="64" y="224"/>
+    <tile id="9" x="48" y="208"/>
+    <tile id="9" x="32" y="208"/>
+    <tile id="9" x="16" y="192"/>
+    <tile id="9" x="16" y="208"/>
+    <tile id="9" x="0" y="224"/>
+    <tile id="9" x="0" y="208"/>
+    <tile id="9" x="0" y="192"/>
+    <tile id="9" x="0" y="176"/>
+    <tile id="9" x="0" y="160"/>
+    <tile id="9" x="16" y="144"/>
+    <tile id="9" x="16" y="112"/>
+    <tile id="9" x="16" y="96"/>
+    <tile id="9" x="16" y="80"/>
+    <tile id="9" x="16" y="64"/>
+    <tile id="9" x="0" y="96"/>
+    <tile id="9" x="0" y="80"/>
+    <tile id="9" x="0" y="64"/>
+    <tile id="9" x="0" y="48"/>
+    <tile id="9" x="0" y="32"/>
+    <tile id="9" x="0" y="16"/>
+    <tile id="9" x="16" y="16"/>
+    <tile id="9" x="0" y="0"/>
+    <tile id="9" x="16" y="0"/>
+    <tile id="9" x="32" y="0"/>
+    <tile id="9" x="48" y="0"/>
+    <tile id="9" x="64" y="0"/>
+    <tile id="9" x="80" y="0"/>
+    <tile id="9" x="96" y="0"/>
+    <tile id="9" x="112" y="0"/>
+    <tile id="9" x="128" y="0"/>
+    <tile id="9" x="144" y="0"/>
+    <tile id="9" x="160" y="0"/>
+    <tile id="9" x="176" y="0"/>
+    <tile id="9" x="192" y="0"/>
+    <tile id="9" x="208" y="0"/>
+    <tile id="9" x="224" y="0"/>
+    <tile id="9" x="240" y="0"/>
+    <tile id="9" x="256" y="0"/>
+    <tile id="9" x="240" y="32"/>
+    <tile id="9" x="256" y="32"/>
+    <tile id="9" x="256" y="16"/>
+    <tile id="9" x="272" y="32"/>
+    <tile id="9" x="288" y="48"/>
+    <tile id="9" x="272" y="64"/>
+    <tile id="9" x="272" y="48"/>
+    <tile id="9" x="288" y="80"/>
+    <tile id="9" x="288" y="64"/>
+    <tile id="9" x="304" y="64"/>
+    <tile id="9" x="304" y="80"/>
+    <tile id="9" x="304" y="96"/>
+    <tile id="9" x="304" y="112"/>
+    <tile id="9" x="304" y="128"/>
+    <tile id="9" x="304" y="144"/>
+    <tile id="9" x="304" y="160"/>
+    <tile id="9" x="304" y="176"/>
+    <tile id="9" x="304" y="192"/>
+    <tile id="9" x="304" y="208"/>
+    <tile id="9" x="272" y="224"/>
+    <tile id="9" x="256" y="224"/>
+    <tile id="9" x="240" y="224"/>
+    <tile id="9" x="224" y="224"/>
+    <tile id="9" x="208" y="224"/>
+    <tile id="9" x="208" y="208"/>
+    <tile id="9" x="224" y="208"/>
+    <tile id="9" x="240" y="192"/>
+    <tile id="9" x="288" y="192"/>
+    <tile id="9" x="256" y="208"/>
+    <tile id="9" x="288" y="208"/>
+    <tile id="9" x="304" y="224"/>
+    <tile id="9" x="288" y="224"/>
+    <tile id="9" x="272" y="208"/>
+    <tile id="9" x="256" y="192"/>
+    <tile id="9" x="224" y="192"/>
+    <tile id="9" x="96" y="128"/>
+    <tile id="9" x="80" y="128"/>
+    <tile id="9" x="64" y="128"/>
+    <tile id="9" x="48" y="128"/>
+    <tile id="9" x="32" y="128"/>
+    <tile id="9" x="16" y="128"/>
+    <tile id="9" x="32" y="144"/>
+    <tile id="9" x="48" y="144"/>
+    <tile id="9" x="64" y="144"/>
+    <tile id="9" x="80" y="144"/>
+    <tile id="9" x="96" y="144"/>
+    <tile id="9" x="144" y="160"/>
+    <tile id="9" x="112" y="144"/>
+    <tile id="9" x="128" y="144"/>
+    <tile id="9" x="96" y="176"/>
+    <tile id="9" x="48" y="160"/>
+    <tile id="9" x="64" y="160"/>
+    <tile id="9" x="80" y="160"/>
+    <tile id="9" x="96" y="160"/>
+    <tile id="9" x="112" y="160"/>
+    <tile id="9" x="128" y="160"/>
+    <tile id="9" x="112" y="176"/>
+    <tile id="9" x="128" y="176"/>
+    <tile id="9" x="144" y="176"/>
+    <tile id="9" x="160" y="176"/>
+    <tile id="9" x="176" y="176"/>
+    <tile id="9" x="192" y="176"/>
+    <tile id="9" x="256" y="160"/>
+    <tile id="9" x="240" y="160"/>
+    <tile id="9" x="208" y="160"/>
+    <tile id="9" x="192" y="160"/>
+    <tile id="9" x="176" y="160"/>
+    <tile id="9" x="160" y="160"/>
+    <tile id="9" x="224" y="128"/>
+    <tile id="9" x="208" y="144"/>
+    <tile id="9" x="192" y="144"/>
+    <tile id="9" x="176" y="144"/>
+    <tile id="9" x="208" y="128"/>
+    <tile id="9" x="192" y="128"/>
+    <tile id="9" x="224" y="112"/>
+    <tile id="9" x="208" y="112"/>
+    <tile id="9" x="192" y="112"/>
+    <tile id="9" x="80" y="96"/>
+    <tile id="9" x="96" y="112"/>
+    <tile id="9" x="80" y="112"/>
+    <tile id="9" x="64" y="112"/>
+    <tile id="9" x="112" y="64"/>
+    <tile id="9" x="80" y="80"/>
+    <tile id="9" x="144" y="48"/>
+    <tile id="9" x="112" y="96"/>
+    <tile id="9" x="96" y="96"/>
+    <tile id="9" x="96" y="80"/>
+    <tile id="9" x="112" y="80"/>
+    <tile id="9" x="128" y="64"/>
+    <tile id="9" x="176" y="64"/>
+    <tile id="9" x="192" y="64"/>
+    <tile id="9" x="208" y="64"/>
+    <tile id="9" x="224" y="64"/>
+    <tile id="9" x="208" y="96"/>
+    <tile id="9" x="128" y="80"/>
+    <tile id="9" x="144" y="80"/>
+    <tile id="9" x="192" y="96"/>
+    <tile id="9" x="224" y="80"/>
+    <tile id="9" x="208" y="80"/>
+    <tile id="9" x="192" y="80"/>
+    <tile id="9" x="176" y="80"/>
+    <tile id="9" x="160" y="64"/>
+    <tile id="9" x="144" y="64"/>
+    <tile id="9" x="144" y="32"/>
+    <tile id="9" x="160" y="32"/>
+    <tile id="9" x="160" y="16"/>
+    <tile id="9" x="144" y="16"/>
+    <tile id="9" x="128" y="16"/>
+    <tile id="9" x="128" y="32"/>
+    <tile id="9" x="128" y="48"/>
+    <tile id="24" x="64" y="32"/>
+    <tile id="24" x="48" y="48"/>
+    <tile id="24" x="48" y="64"/>
+    <tile id="24" x="112" y="32"/>
+    <tile id="24" x="112" y="48"/>
+    <tile id="24" x="96" y="48"/>
+    <tile id="24" x="96" y="64"/>
+    <tile id="24" x="80" y="64"/>
+    <tile id="24" x="64" y="96"/>
+    <tile id="24" x="48" y="112"/>
+    <tile id="24" x="48" y="96"/>
+    <tile id="24" x="48" y="80"/>
+    <tile id="24" x="64" y="80"/>
+    <tile id="24" x="64" y="64"/>
+    <tile id="24" x="64" y="48"/>
+    <tile id="24" x="80" y="48"/>
+    <tile id="24" x="80" y="32"/>
+    <tile id="24" x="96" y="32"/>
+    <tile id="24" x="128" y="96"/>
+    <tile id="24" x="128" y="112"/>
+    <tile id="24" x="112" y="112"/>
+    <tile id="24" x="112" y="128"/>
+    <tile id="24" x="128" y="128"/>
+    <tile id="24" x="144" y="112"/>
+    <tile id="24" x="144" y="96"/>
+    <tile id="24" x="160" y="80"/>
+    <tile id="24" x="144" y="128"/>
+    <tile id="24" x="144" y="144"/>
+    <tile id="24" x="160" y="144"/>
+    <tile id="24" x="160" y="128"/>
+    <tile id="24" x="176" y="128"/>
+    <tile id="24" x="176" y="112"/>
+    <tile id="24" x="176" y="96"/>
+    <tile id="24" x="160" y="96"/>
+    <tile id="24" x="160" y="112"/>
+    <tile id="49" x="272" y="192"/>
+    <tile id="4" x="272" y="0"/>
+    <tile id="4" x="272" y="16"/>
+    <tile id="4" x="288" y="32"/>
+    <tile id="4" x="304" y="32"/>
+    <tile id="4" x="304" y="48"/>
+    <tile id="4" x="304" y="16"/>
+    <tile id="4" x="288" y="16"/>
+    <tile id="4" x="288" y="0"/>
+    <tile id="4" x="304" y="0"/>
+    <tile id="4" x="240" y="144"/>
+    <tile id="4" x="224" y="144"/>
+    <tile id="4" x="224" y="160"/>
+    <tile id="4" x="224" y="176"/>
+    <tile id="4" x="208" y="176"/>
+    <tile id="4" x="64" y="192"/>
+    <tile id="4" x="96" y="192"/>
+    <tile id="4" x="80" y="192"/>
+    <tile id="4" x="80" y="176"/>
+    <tile id="4" x="64" y="176"/>
+    <tile id="4" x="48" y="176"/>
+    <tile id="4" x="48" y="192"/>
+    <tile id="4" x="32" y="192"/>
+  </tileLayer>
+  <solid>00000000000000000000-00000000000000000000-00000000000000000000-00000000000000000000-00000000000000000000-00000000000000000000-00000000000000000000-00000000000000000000-00000000000000000000-00000000000000000000-00000000000000000000-00000000000000000000-00000000000000000100-00000000000000000000-00000000000000000000</solid>
+  <objectLayer>
+    <player x="144" y="112"/>
+    <littleIronMushroomGenerator x="16" y="0" startingTime="60" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="3"/>
+    <littleIronMushroomGenerator x="16" y="16" startingTime="1200" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="3"/>
+    <littleIronMushroomGenerator x="16" y="32" startingTime="1700" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="3"/>
+    <littleIronMushroomGenerator x="16" y="48" startingTime="2800" interGenerationTime="200" randomPeriod="300" numberOfGeneratedObjects="3"/>
+    <runningMushroomGenerator x="16" y="64" startingTime="3200" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="32" y="48" startingTime="3000" interGenerationTime="400" randomPeriod="400" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="32" y="32" startingTime="1800" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="32" y="16" startingTime="1500" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="32" y="0" startingTime="200" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="5"/>
+    <tallRunningMushroomGenerator x="48" y="0" startingTime="300" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <tallRunningMushroomGenerator x="48" y="32" startingTime="2000" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="5"/>
+    <tallRunningMushroomGenerator x="32" y="64" startingTime="3400" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="4"/>
+    <tallRunningMushroomGenerator x="16" y="80" startingTime="4100" interGenerationTime="200" randomPeriod="100" numberOfGeneratedObjects="4"/>
+    <tallRunningMushroomGenerator x="16" y="96" startingTime="4700" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="4"/>
+    <bigSpitMushroomGenerator x="32" y="80" startingTime="4300" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="3"/>
+    <bigSpitMushroomGenerator x="48" y="48" startingTime="2100" interGenerationTime="400" randomPeriod="300" numberOfGeneratedObjects="3"/>
+    <bigSpitMushroomGenerator x="64" y="0" startingTime="600" interGenerationTime="500" randomPeriod="500" numberOfGeneratedObjects="6"/>
+    <flyingMushroomGenerator x="80" y="0" startingTime="400" interGenerationTime="600" randomPeriod="400" numberOfGeneratedObjects="5"/>
+    <flyingMushroomGenerator x="64" y="32" startingTime="2200" interGenerationTime="300" randomPeriod="400" numberOfGeneratedObjects="4"/>
+    <flyingMushroomGenerator x="64" y="64" startingTime="3600" interGenerationTime="400" randomPeriod="400" numberOfGeneratedObjects="4"/>
+    <flyingMushroomGenerator x="48" y="80" startingTime="4500" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="4"/>
+    <ironMushroomGenerator x="96" y="0" startingTime="800" interGenerationTime="600" randomPeriod="600" numberOfGeneratedObjects="3"/>
+    <ironMushroomGenerator x="80" y="32" startingTime="2400" interGenerationTime="400" randomPeriod="400" numberOfGeneratedObjects="3"/>
+    <ironMushroomGenerator x="64" y="80" startingTime="4700" interGenerationTime="300" randomPeriod="300" numberOfGeneratedObjects="3"/>
+    <spitMushroomGenerator x="112" y="0" startingTime="1000" interGenerationTime="400" randomPeriod="400" numberOfGeneratedObjects="6"/>
+    <spitMushroomGenerator x="96" y="32" startingTime="2600" interGenerationTime="200" randomPeriod="400" numberOfGeneratedObjects="4"/>
+    <spitMushroomGenerator x="96" y="64" startingTime="4000" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="4"/>
+    <spitMushroomGenerator x="80" y="96" startingTime="4900" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="4"/>
+    <littleIronMushroomGenerator x="16" y="112" startingTime="5000" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="3"/>
+    <littleIronMushroomGenerator x="32" y="112" startingTime="5000" interGenerationTime="100" randomPeriod="200" numberOfGeneratedObjects="3"/>
+    <runningMushroomGenerator x="48" y="112" startingTime="5000" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="5"/>
+    <runningMushroomGenerator x="64" y="112" startingTime="5000" interGenerationTime="100" randomPeriod="300" numberOfGeneratedObjects="5"/>
+    <tallRunningMushroomGenerator x="16" y="128" startingTime="5200" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="5"/>
+    <tallRunningMushroomGenerator x="96" y="96" startingTime="4800" interGenerationTime="200" randomPeriod="300" numberOfGeneratedObjects="5"/>
+    <tallRunningMushroomGenerator x="112" y="64" startingTime="4000" interGenerationTime="200" randomPeriod="200" numberOfGeneratedObjects="4"/>
+    <tallRunningMushroomGenerator x="112" y="32" startingTime="2500" interGenerationTime="100" randomPeriod="200" numberOfGeneratedObjects="4"/>
+    <runningMushroomGenerator x="144" y="0" startingTime="200" interGenerationTime="100" randomPeriod="100" numberOfGeneratedObjects="5"/>
+    <flyingMushroomGenerator x="48" y="128" startingTime="5300" interGenerationTime="100" randomPeriod="200" numberOfGeneratedObjects="3"/>
+  </objectLayer>
+</level>
